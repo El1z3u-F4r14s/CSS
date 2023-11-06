@@ -2,7 +2,8 @@
 
 **`ALTERAÇÕES RECENTES`**
 
-* IncLusão de duas novas categorias de notícias e estilização com CSS
+* Ajustes para melhoramento da página.
+* Inclusão de duas novas categorias de notícias e estilização com CSS.
 
 **`ALTERAÇÕES ANTIGAS`**
 
